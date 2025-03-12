@@ -48,3 +48,4 @@ Group member:
 
 - Makayla Chang
 - Tingxu Chen
+- Trent Stross
