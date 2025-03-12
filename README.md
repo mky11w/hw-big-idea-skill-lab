@@ -9,6 +9,11 @@ This is a sentiment chatbot that asks users about their activities and give simp
 This program uses `python 3.7` by Jupyter note book and requires following dependencies:
 - `nltk`
 
+To get the dependence, use:
+```
+pip install nltk
+```
+
 ## Group
 
 Group name: `Version Control Skills Lab Group 27`
